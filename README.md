@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## II Workshop em Data Science UFLA
 
-You can use the [editor on GitHub](https://github.com/estatisticaufla/estatisticaufla.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of DS](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/10/Webp.net-resizeimage-2-2.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
